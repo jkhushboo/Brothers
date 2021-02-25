@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Brothers">
+              <span class="suite-name border-failed">Brothers</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Brothers">
+                    <span>C:\Users\kjain\Documents\biccom-suite-automation (3)\biccom-suite-automation\NewUserCheckout.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Brothers">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Brothers">
+                    <span>2 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Brothers">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Brothers">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Brothers">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Brothers">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method, 1 failed,   </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Brothers" class="hide-methods failed suite-Brothers"> (hide)</a> <!-- hide-methods failed suite-Brothers -->
+                      <a href="#" panel-name="suite-Brothers" class="show-methods failed suite-Brothers"> (show)</a> <!-- show-methods failed suite-Brothers -->
+                    </span>
+                    <div class="method-list-content failed suite-Brothers">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Brothers" title="suite.test.NewUserCheckoutTest" hash-for-method="NewUser_NextShipping_Disc">NewUser_NextShipping_Disc</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Brothers -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Brothers" class="panel Brothers">
+          <div class="suite-Brothers-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">suite.test.NewUserCheckoutTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="NewUser_NextShipping_Disc">
+                  </a> <!-- NewUser_NextShipping_Disc -->
+                  <span class="method-name">NewUser_NextShipping_Disc</span>
+                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -&gt; id: cciFrame] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;AMAZUQATEST1&apos;, ip: &apos;10.72.50.24&apos;, os.name: &apos;Windows Server 2019&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 22324, moz:profile: C:\Users\kjain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept}
+Session ID: 03e8752d-6075-4a1f-a41d-29f184a02d47
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at suite.base.PageBase.getWebElement(PageBase.java:147)
+	at suite.page.CheckoutPage.switchToPaymentIframe(CheckoutPage.java:729)
+	at suite.test.NewUserCheckoutTest.NewUser_NextShipping_Disc(NewUserCheckoutTest.java:644)
+... Removed 25 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Placed order using Create an new user with next day shipping using Discover CC)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Brothers-class-failed -->
+        </div> <!-- panel Brothers -->
+        <div panel-name="test-xml-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\kjain\Documents\biccom-suite-automation (3)\biccom-suite-automation\NewUserCheckout.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Brothers&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;suite.listener.ExtentReportNG&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Regression Test3&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;suite.test.NewUserCheckoutTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Regression Test3 --&gt;
+&lt;/suite&gt; &lt;!-- Brothers --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Brothers</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Regression Test3 (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Brothers</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">checkout</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">NewUser_NextShipping_Disc</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">wip</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">NewUser_NextShipping_Disc</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Brothers</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Brothers');
+function tableData_Brothers() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'NewUser_NextShipping_Disc')
+data.setCell(0, 2, 'suite.test.NewUserCheckoutTest')
+data.setCell(0, 3, 137757);
+window.suiteTableData['Brothers']= { tableData: data, tableDiv: 'times-div-Brothers'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-Brothers">
+              </div> <!-- times-div-Brothers -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Brothers</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">NewUser_NextShipping_Disc</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Navigating to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br></span>
+                <span class="reporter-method-output">Navigated to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: sitecoreId<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .checkout-button<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .checkout-button<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .checkout-button<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br></span>
+                <span class="reporter-method-output">Before Script: arguments[0].click();<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .checkout-button<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br></span>
+                <span class="reporter-method-output">After Script: arguments[0].click();<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: checkoutBtn<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: checkoutBtn<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: checkoutBtn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: checkoutBtn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: checkoutBtn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: registerTab<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: registerTab<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: registerTab<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: Email<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: txtNewPassowrd<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ConfirmPassword<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: FirstName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: LastName<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br></span>
+                <span class="reporter-method-output">Before Script: arguments[0].scrollIntoView(true);<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br></span>
+                <span class="reporter-method-output">After Script: arguments[0].scrollIntoView(true);<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .close > a<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: ShipAllItemsInput-Phone<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address1<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2City<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2States<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2States<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2States<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.xpath: .//option[normalize-space(.) = "New Jersey"]<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2ZipCode<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: form2Address2<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: orderGetShippingMethods<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: orderGetShippingMethods<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: orderGetShippingMethods<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #ToBillingButton<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #ToBillingButton<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #ToBillingButton<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.cssSelector: #ToBillingButton<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+                <span class="reporter-method-output">Finding Element by locator: By.id: cciFrame<br></span>
+                <span class="reporter-method-output">Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">17 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">suite.test.NewUserCheckoutTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">NewUser_NextShipping_PayPal</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_Master</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_Amex</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_Disc</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondShipping_Disc</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_NextDayShipping_Amex</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondShipping_PayPal</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_NextDayShipping_PayPalCredit</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_PayPalCredit</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondShipping_Amex</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_PayPal</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_NextShipping_Master</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_GroundShipping_Visa</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondShipping_Visa</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_NextShipping_Visa</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondDayShipping_PayPalCredit</span>
+                <br/>
+                <span class="ignored-method-name">NewUser_SecondShipping_Master</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Brothers" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">suite.test.NewUserCheckoutTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpEnv(qa)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">setDriver(firefox)</span>
+                <span class="method-start">18 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">NewUser_NextShipping_Disc</span>
+                <span class="method-start">5319 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">screenShot([TestResult name=NewUser_NextShipping_Disc status=FAILURE method=NewUserCheckoutTest.NewUser_NextShi...)</span>
+                <span class="method-start">143079 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

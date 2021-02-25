@@ -1,0 +1,3501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="17" total="18" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigating to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Script: arguments[0].scrollIntoView(true);<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Script: arguments[0].scrollIntoView(true);<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.xpath: .//option[normalize-space(.) = "New Jersey"]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Brothers" duration-ms="144212" started-at="2021-02-25T08:24:53Z" finished-at="2021-02-25T08:27:18Z">
+    <groups>
+      <group name="checkout">
+        <method signature="NewUserCheckoutTest.NewUser_NextShipping_Disc()[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="NewUser_NextShipping_Disc" class="suite.test.NewUserCheckoutTest"/>
+      </group> <!-- checkout -->
+      <group name="wip">
+        <method signature="NewUserCheckoutTest.NewUser_NextShipping_Disc()[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="NewUser_NextShipping_Disc" class="suite.test.NewUserCheckoutTest"/>
+      </group> <!-- wip -->
+    </groups>
+    <test name="Regression Test3" duration-ms="144212" started-at="2021-02-25T08:24:53Z" finished-at="2021-02-25T08:27:18Z">
+      <class name="suite.test.NewUserCheckoutTest">
+        <test-method status="PASS" signature="setUpEnv(java.lang.String)[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="setUpEnv" is-config="true" duration-ms="12" started-at="2021-02-25T08:24:53Z" finished-at="2021-02-25T08:24:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnv -->
+        <test-method status="PASS" signature="setDriver(java.lang.String)[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="setDriver" is-config="true" duration-ms="5301" started-at="2021-02-25T08:24:53Z" finished-at="2021-02-25T08:24:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="FAIL" signature="NewUser_NextShipping_Disc()[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="NewUser_NextShipping_Disc" duration-ms="137757" started-at="2021-02-25T08:24:59Z" description="Placed order using Create an new user with next day shipping using Discover CC" finished-at="2021-02-25T08:27:16Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMAZUQATEST1', ip: '10.72.50.24', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 22324, moz:profile: C:\Users\kjain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept}
+Session ID: 03e8752d-6075-4a1f-a41d-29f184a02d47]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMAZUQATEST1', ip: '10.72.50.24', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 22324, moz:profile: C:\Users\kjain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept}
+Session ID: 03e8752d-6075-4a1f-a41d-29f184a02d47
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at suite.base.PageBase.getWebElement(PageBase.java:147)
+at suite.page.CheckoutPage.switchToPaymentIframe(CheckoutPage.java:729)
+at suite.test.NewUserCheckoutTest.NewUser_NextShipping_Disc(NewUserCheckoutTest.java:644)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br>]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: checkoutBtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: checkoutBtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: registerTab<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: registerTab]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: Email<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: Email]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: txtNewPassowrd<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: txtNewPassowrd]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ConfirmPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ConfirmPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: FirstName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: FirstName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LastName<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: LastName]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Script: arguments[0].scrollIntoView(true);<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .btn.janus-btn-blue.janus-sign-up-btn.text-uppercase]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Script: arguments[0].scrollIntoView(true);<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-sign-up-btn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-sign-up-btn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: ShipAllItemsInput-Phone<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: ShipAllItemsInput-Phone]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address1<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2City<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2City]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2States<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.xpath: .//option[normalize-space(.) = "New Jersey"]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[[[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2States]] -> xpath: .//option[normalize-space(.) = "New Jersey"]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2ZipCode<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2ZipCode]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: form2Address2<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: form2Address2]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: cciFrame<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[FirefoxDriver: firefox on WINDOWS (03e8752d-6075-4a1f-a41d-29f184a02d47)] -> id: cciFrame]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewUser_NextShipping_Disc -->
+        <test-method status="PASS" signature="screenShot(org.testng.ITestResult)[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0]" name="screenShot" is-config="true" duration-ms="1123" started-at="2021-02-25T08:27:17Z" finished-at="2021-02-25T08:27:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NewUser_NextShipping_Disc status=FAILURE method=NewUserCheckoutTest.NewUser_NextShipping_Disc()[pri:0, instance:suite.test.NewUserCheckoutTest@68267da0] output=Navigating to url: https://uatcommerce.brother-usa.com/products/HLL2370DWXL<br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- suite.test.NewUserCheckoutTest -->
+    </test> <!-- Regression Test3 -->
+  </suite> <!-- Brothers -->
+</testng-results>

@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- Browsers support chrome, chrome-headless, chrome-ng -->
+<!-- Environments support dev, qa, prod -->
+
+<suite name="Brothers" verbose="1">
+	
+<listeners>
+
+<listener class-name="suite.listener.ExtentReportNG"/>
+
+</listeners>	
+	
+	<parameter name="browser" value="chrome-ng" />
+	<!-- <parameter name="browser" value="firefox" /> -->
+	<test name="Regression Test2">
+		
+		<classes>
+	              <class name="suite.test.CheckoutTest" />  
+	             
+	     </classes>
+	  </test>
+</suite>
+	             
+	    

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="suite.test.NewUserCheckoutTest">
+        <methods>
+          <include name="NewUser_NextShipping_PayPal"/>
+          <include name="NewUser_GroundShipping_PayPalCredit"/>
+          <include name="NewUser_GroundShipping_PayPal"/>
+          <include name="screenShot"/>
+          <include name="NewUser_NextShipping_Disc"/>
+          <include name="NewUser_SecondShipping_PayPal"/>
+          <include name="NewUser_NextShipping_Visa"/>
+          <include name="NewUser_NextDayShipping_PayPalCredit"/>
+          <include name="NewUser_SecondDayShipping_PayPalCredit"/>
+          <include name="setUpEnv"/>
+          <include name="setDriver"/>
+        </methods>
+      </class> <!-- suite.test.NewUserCheckoutTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
