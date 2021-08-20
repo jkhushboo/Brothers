@@ -11,18 +11,18 @@
 </listeners>	
 	
 	<!-- <parameter name="browser" value="chrome-ng" /> -->
+	
+	<!-- <parameter name="browser" value="chrome-ng" /> -->
 	<parameter name="browser" value="firefox" />
-	<test name="Regression Test1">
+	<test name="Test1">
 		
 		<classes>
-	              <!-- <class name="suite.test.LoginTest" />  --> 
-	            <!-- <class name="suite.test.MyAccountTest" />
-	            <class name="suite.test.Pdp_BMG_Test" />
-	            <class name="suite.test.PlpHomeTest" /> -->  
-	            <class name="suite.test.RegisteredCheckoutTest" />
-	            
-	     </classes>
-	  </test>
-</suite>
 	             
+	          <class name="suite.test.CheckoutTest" /> 
+	             
+	    </classes>
+	    </test>
 	    
+	   
+	
+</suite>
