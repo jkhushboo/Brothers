@@ -1,5 +1,6 @@
 package suite.page;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.TimeoutException;
@@ -20,7 +21,7 @@ public class CheckoutPage extends PageBase {
 	private WebDriver driver;
 	
 
-	@FindBy(id = "sitecoreId")
+	@FindBy(css = ".close_button-14102-button.close_button-14102-button-d2.bluecoreCloseButton")
 	private WebElement crossIcon;
 
 	@FindBy(css = ".close > a")
@@ -76,6 +77,9 @@ public class CheckoutPage extends PageBase {
 
 	@FindBy(css = "#standard-shipping > div > div.janus-standard-shipping-listing > div > div:nth-child(3) > div > label")
 	private WebElement groundShipping;
+	
+	@FindBy(css = "free-shipping-text1 order-qualifies-for-free-shipp")
+	private WebElement qualifyMessage;
 
 	@FindBy(id = "orderGetShippingMethods")
 	private WebElement guestInfoNextBtn;
@@ -86,7 +90,7 @@ public class CheckoutPage extends PageBase {
 	@FindBy(css = "#ToBillingButton")
 	private WebElement guestShippingNextBtn;
 
-	@FindBy(css = ".janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label")
+	@FindBy(css = ".janus-standard-shipping-listing .shipall-options-item .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label")
 	private WebElement secondDayAirShipBtn;
 
 	@FindBy(css = ".janus-standard-shipping-listing > .janus-shipping-method-block:nth-child(2) .radio-label")
@@ -169,6 +173,9 @@ public class CheckoutPage extends PageBase {
 
 	@FindBy(id = "LastName")
 	private WebElement checkoutLnameTxt;
+	
+	@FindBy(css = ".panel-body > .janus-standard-shipping-listing")
+	private WebElement panel;
 
 	/*
 	 * @FindBy(linkText = "Products for Business") private WebElement
@@ -239,7 +246,7 @@ public class CheckoutPage extends PageBase {
 	@FindBy(id = "billingAddress-Zipcode")
 	private WebElement dpcZipTxt;
 
-	@FindBy(css = ".janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label")
+	@FindBy(css = ".janus-standard-shipping-listing .shipall-options-item .janus-shipping-method-block:nth-child(3) > .shipping-option > .radio-label")
 	private WebElement nextDayAirShipBtn;
 
 	@FindBy(css = "div.container>h3>strong#sapOrderId")
@@ -247,6 +254,9 @@ public class CheckoutPage extends PageBase {
 	
 	@FindBy(id = "emailSubTagLine")
 	private WebElement 	text;
+	
+	@FindBy(id = "pwdSubTagLine")
+	private WebElement 	passtext;
 	
 	@FindBy(css = "div.mini-cart-product-description > a > h5")
 	private WebElement pdpProductName;
@@ -256,6 +266,12 @@ public class CheckoutPage extends PageBase {
 	
 	@FindBy(xpath = "//span[@class=\"shipping-address-filled\"]")
 	private WebElement zipCodeValidation;
+	
+	@FindBy(css = ".panel-collapse.shipall-options-items.collapse.in")
+	private WebElement completePanel;
+	
+	@FindBy(css = "h3.cpl-heading")
+	private WebElement loader;
 	
 	
 
@@ -273,16 +289,19 @@ public class CheckoutPage extends PageBase {
 	 */
 	public CheckoutPage getPdpCheckoutPage(String pageURL) {
 		NavigatetoPage(pageURL);
-		try {
-			clickingElement(crossIcon);
-		} catch (TimeoutException e) {
-			e.getMessage();
-		}
+		
 		try {
 			clickingElement(cookiesCrossIcon);
 		} catch (TimeoutException e) {
 			e.getMessage();
 		}
+		
+		try {
+			clickingElement(crossIcon);
+		} catch (TimeoutException e) {
+			e.getMessage();
+		}
+		
 		return this;
 	}
 
@@ -332,7 +351,8 @@ public class CheckoutPage extends PageBase {
 	 * @return object of the current class
 	 */
 	public CheckoutPage clkCheckoutGuestBtn() {
-		clickingElement(guestCheckoutBtn);
+		
+			clickingElement(guestCheckoutBtn);
 		try {
 			clickingElement(cookiesCrossIcon);
 		} catch (TimeoutException e) {
@@ -469,12 +489,8 @@ public class CheckoutPage extends PageBase {
 		setText(guestZipTxt, inputText);
 		setTextforZip(guestZipTxt);
 		
-		  try {
-			Thread.sleep(20000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} 
+		
+		  
 		 
 		
 		return this;
@@ -499,12 +515,8 @@ public class CheckoutPage extends PageBase {
 		/* clickingElementAction(guestInfoNextBtn); */
 		 clickingElement(guestInfoNextBtn); 
 		
-		try {
-			Thread.sleep(10000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		 
+		
 		return this;
 
 	}
@@ -546,10 +558,19 @@ public class CheckoutPage extends PageBase {
 	 * @throws InterruptedException 
 	 */
 	public CheckoutPage clkShippingNextBtn() {
+		
+		getWebElement(guestShippingNextBtn);
+		clickingElement(guestShippingNextBtn);
+		return this;
+	}
+	
+public CheckoutPage clkViewShippingNextBtn() {
+		
+		if (getWebElement(completePanel)!= null && getWebElement(panel)!= null) {
 		//waitForElementToBeGone(iLoader, 1);
 		getWebElement(groundShipping);
 		getWebElement(guestShippingNextBtn);
-		clickingElement(guestShippingNextBtn);
+		clickingElement(guestShippingNextBtn);}
 		return this;
 	}
 
@@ -559,10 +580,14 @@ public class CheckoutPage extends PageBase {
 	 * @return object of the current class
 	 */
 	public CheckoutPage clkSecondDayAirShip() {
-		getWebElement(groundShipping);
+		
+		if (getWebElement(completePanel)!= null && getWebElement(panel)!= null) {
+			
+		
+		getWebElement(secondDayAirShipBtn);
 		clickingElement(secondDayAirShipBtn);
+	} 
 		return this;
-
 	}
 
 	/**
@@ -652,6 +677,15 @@ public class CheckoutPage extends PageBase {
 	 * @return object of the current class
 	 */
 	public CheckoutPage enterPpPass(String inputText) {
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		getText(passtext);
+		
+		
 		setText(ppPassTxt, inputText);
 		return this;
 	}
@@ -728,7 +762,7 @@ public class CheckoutPage extends PageBase {
 		try {
 			getWebElement(switchtoIframe);
 			switchToIframe(id);
-			Thread.sleep(5000);
+			Thread.sleep(10000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -764,11 +798,29 @@ public class CheckoutPage extends PageBase {
 	 * @return object of current class
 	 */
 	public CheckoutPage selectCardType(String inputText) {
+		
 		getWebElement(cardNoCcTxt);
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		try {
 			selectDropDownWithValue(PaymentCtypeSdd, inputText);
 		} catch (NoSuchElementException e) {
 			selectDropDownWithValue(PaymentCtypeSdd, inputText);
+			e.printStackTrace();
+		}
+		return this;
+	}
+	
+	public CheckoutPage selectCardType1(int inputText) {
+		getWebElement(cardNoCcTxt);
+		try {
+			selectDropDownWithIndex(PaymentCtypeSdd, inputText);
+		} catch (NoSuchElementException e) {
+			selectDropDownWithIndex(PaymentCtypeSdd, inputText);
 			e.printStackTrace();
 		}
 		return this;
@@ -1211,12 +1263,18 @@ public class CheckoutPage extends PageBase {
 	}
 
 	public CheckoutPage clkNextDayAirShip() {
-		getWebElement(groundShipping);
-		clickingElement(nextDayAirShipBtn);
+		
+		if (getWebElement(completePanel)!= null && getWebElement(panel)!= null) {
+		getWebElement(nextDayAirShipBtn);
+		clickingElement(nextDayAirShipBtn);}
 		return this;
 	}
 
 	public String getOrderId() {
+		
+		takeScreenshot();
+		checkPageIsReady();
+		
 		return getText(orderId);
 
 	}
@@ -1229,4 +1287,27 @@ public class CheckoutPage extends PageBase {
 		setText(guestAddressTxt2, inputText);
 		return this;
 	}
+
+	public CheckoutPage selectCardTypeVisa() {
+		getWebElement(PaymentCtypeSdd).sendKeys(Keys.DOWN,Keys.DOWN);
+		return this;
+	}
+
+	public CheckoutPage selectCardTypeMaster() {
+		getWebElement(PaymentCtypeSdd).sendKeys(Keys.DOWN,Keys.DOWN,Keys.DOWN);
+		return this;
+	}
+
+	public CheckoutPage selectCardTypeAmex() {
+		getWebElement(PaymentCtypeSdd).sendKeys(Keys.DOWN);
+		return this;
+	}
+
+	public CheckoutPage selectCardTypeDiscover() {
+		getWebElement(PaymentCtypeSdd).sendKeys(Keys.DOWN,Keys.DOWN,Keys.DOWN,Keys.DOWN);
+		return this;
+	}
+	
+	
+	
 }
